@@ -1,0 +1,127 @@
+BIOSConfig 1.0
+;
+;     Originally created by BIOS Configuration Utility
+;     Version: 4.0.32.1
+;     Date="2024/02/12" Time="18:28:44" UTC="6"
+;
+;     Found 40 settings
+;
+Feature Byte
+	3K6b7K7MaBapaqarawbCbhcbdUdXdpdqfPhAhZhwjCkFm9mzpJ.BN
+Build ID
+	22WW3TXT601#SACJ#DACJ
+Serial Number
+	5CD21196MG
+Product Name
+	HP Pavilion Laptop 14-ec1xxx
+UUID
+	35434432313139364D47473631314435
+Product Number
+	6D9T7PA#ACJ
+System Board CT Number
+	PPVCP038JIQ01C
+Keyboard Type
+	*Non-Japanese Keyboard
+	Japanese Keyboard
+	New EMEA UK KB (US2)
+	New BRZL KB (UK2)
+	New BRZL KB (US3)
+	US4 (LA KB)
+	US5 (Europe KB)
+	US6 (Korea KB)
+	US7 (Brazil KB)
+MS Digital Marker
+	010000000000000001000000000000001D0000004837524A4E2D38583957442D393833374B2D57435433472D344D364742
+SmartAMP R0
+	
+System Board ID
+	8A0F
+System Family
+	HP Pavilion
+Preinstall OS Version
+	1121H2
+Speaker ID
+	0
+PIN Process Cycle
+	22C1
+Language
+	*English
+	Francais
+	Espanol
+	Traditional Chinese
+	Simplified Chinese
+Fan Always On
+	*Disable
+	Enable
+Action Keys Mode
+	Disable
+	*Enable
+Adaptive Battery Extender
+	Disable
+	*Enable
+Adaptive Battery Extender Status
+	Not Activated
+	*Activated
+POST Hotkey Delay (sec)
+	*0
+	5
+	10
+	15
+	20
+USB Boot
+	Disable
+	*Enable
+Network Boot
+	*Disable
+	Enable
+Network Boot Protocol
+	IPv4 (UEFI)
+	IPv6 (UEFI)
+	*IPv4+IPv6 (UEFI)
+Secure Boot
+	Disable
+	*Enable
+UEFI Boot Order
+	OS Boot Manager
+	USB Flash Drive/USB Hard Disk
+	USB CD/DVD ROM Drive
+	USB Network Adapter
+TPM Device
+	Hidden
+	*Available
+TPM State
+	Disable
+	*Enable
+Clear TPM
+	*No
+	Yes
+Manufacturing Programming Mode
+	*Lock
+	Unlock
+TPM Reset to Factory Defaults
+	*No
+	Yes
+TPM Activation Policy
+	*No prompts
+	Allow user to reject
+Restore Security Defaults
+	*No
+	Yes
+TPM version
+	d1.2
+	d2.0
+	*f2.0
+PIN Load Defaults
+	*No
+	Yes
+AOS Deployment AddOn
+	*Disable
+	Enable
+BIOS Revision
+	F.07
+Batt_LTemp
+	01 00
+Keyboard Layout
+	Compact
+HW Platform Cycle
+	22C1
